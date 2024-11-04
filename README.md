@@ -1,4 +1,14 @@
 # Subscription-Data
+
+TABLE OF CONTENT
+
+Project-Overview
+Project Summary
+Project Structure
+Excel Analysis
+SQL Analysis
+Power BI Dashboard
+Key Insights
 ---
 ### Overview
 This project analyzes customer data from a subscription service to uncover behavioral patterns, track subscription trends, and identify potential customer segments. By exploring data on subscription types, cancellations, and renewals, we gain insights into customer preferences and trends. The final deliverable is a Power BI dashboard that presents key findings interactively.
