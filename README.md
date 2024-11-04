@@ -6,7 +6,7 @@ TABLE OF CONTENT
 
 [Project Summary](#project-summary)
 
-[Project Structur](#project-structure)
+[Project Structure](#project-structure)
 
 [Excel Analysis](#excel-analysis)
 
