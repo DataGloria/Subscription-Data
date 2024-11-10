@@ -37,7 +37,7 @@ This project analyzes customer data from a subscription service to uncover behav
 
 ## Project Structure
 
-1. **Excel Analysis**:
+## Excel Analysis:
    - **Data Exploration**: Used pivot tables to analyze subscription patterns, focusing on metrics such as average subscription duration and identifying popular subscription types.
    - **Key Calculations**:
      - Calculated the average subscription duration across customer segments.
@@ -45,7 +45,7 @@ This project analyzes customer data from a subscription service to uncover behav
      - Generated additional reports highlighting customer demographics and usage trends.
    - **File**: [`Customer_Segmentation_Excel.xlsx`](link-to-excel-file)
 
-2. **SQL Analysis**:
+## SQL Analysis:
    - **Dataset Loading**: Loaded the customer dataset into SQL Server to perform more in-depth analysis.
    - **Key Queries**:
      - **Total Customers by Region**:
@@ -112,7 +112,7 @@ This project analyzes customer data from a subscription service to uncover behav
        ```
    reminder!!!! (put imaage here, Gloria)!!!!!!
 
-3. **Power BI Dashboard**:
+## Power BI Dashboard:
    - **Overview**: Developed an interactive Power BI dashboard that visualizes key metrics.
    - **Dashboard Components**:
      - **Customer Segments**: Displays key customer segments based on subscription type and region.
