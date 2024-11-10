@@ -114,7 +114,13 @@ This project analyzes customer data from a subscription service to uncover behav
    reminder!!!! (put imaage here, Gloria)!!!!!!
 
 ## Power BI Dashboard:
-   - **Overview**: Developed an interactive Power BI dashboard that visualizes key metrics.
+   - **Overview**: 
+   - loaded the data into powerbi
+   - checked data type to ensure data type is accurate
+   - performed data audit to ensure data is clear of error and data quality is topnotch
+   - Developed an interactive Power BI dashboard that visualizes key metrics.
+
+     
    - **Dashboard Components**:
      - **Customer Segments**: Displays key customer segments based on subscription type and region.
      - **Cancellations**: Highlights cancellation rates, with a focus on top regions and subscription durations.
