@@ -43,6 +43,7 @@ This project analyzes customer data from a subscription service to uncover behav
      - Calculated the average subscription duration across customer segments.
      - Identified the most popular subscription types.
      - Generated additional reports highlighting customer demographics and usage trends.
+       
    - **File**: [`Customer_Segmentation_Excel.xlsx`](link-to-excel-file)
 
 ## SQL Analysis:
