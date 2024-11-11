@@ -44,7 +44,7 @@ This project analyzes customer data from a subscription service to uncover behav
    - **Key Calculations**:
      - Calculated the average subscription duration across customer segments.
      - Identified the most popular subscription types.
-     - Generated additional reports highlighting customer demographics and usage trends.
+     - Generated additional reports highlighting customer demographics and usage trends..
        
    - **File**: 
 
