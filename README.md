@@ -44,7 +44,7 @@ This project analyzes customer data from a subscription service to uncover behav
      - Identified the most popular subscription types.
      - Generated additional reports highlighting customer demographics and usage trends.
        
-   - **File**: [`Customer_Segmentation_Excel.xlsx`](link-to-excel-file)
+   - **File**: 
 
 ## SQL Analysis:
    - **Dataset Loading**: Loaded the customer dataset into SQL Server to perform more in-depth analysis.
@@ -126,8 +126,8 @@ This project analyzes customer data from a subscription service to uncover behav
      - **Cancellations**: Highlights cancellation rates, with a focus on top regions and subscription durations.
      - **Subscription Trends**: Shows popular subscription types and total revenue generated.
      - **Interactive Slicers**: Allows filtering by customer segments, regions, and subscription types.
-   - **File**: [`Customer_Segmentation_Dashboard.pbix`](link-to-powerbi-file)
-   - **Preview**: ![Dashboard Preview](link-to-image-or-gif)
+   - **File**: 
+   - **Preview**: 
 
 ---
 
