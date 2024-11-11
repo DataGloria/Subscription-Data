@@ -130,7 +130,8 @@ This project analyzes customer data from a subscription service to uncover behav
      - **Subscription Trends**: Shows popular subscription types and total revenue generated.
      - **Interactive Slicers**: Allows filtering by customer segments, regions, and subscription types.
    - **File**: 
-   - **Preview**: 
+   - **Preview**: ![Screenshot 2024-11-12 005438](https://github.com/user-attachments/assets/05900edd-85a9-49d2-bb50-fcaba51c1537)
+
 
 ---
 
