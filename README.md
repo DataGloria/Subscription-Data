@@ -37,7 +37,8 @@ This project analyzes customer data from a subscription service to uncover behav
 
 ## Project Structure
 
-## Excel Analysis:[Gloria Arogundade's LITA Capstone Project.xlsx](https://github.com/user-attachments/files/17693649/Gloria.Arogundade.s.LITA.Capstone.Project.xlsx)
+## Excel Analysis:[Gloria LITA Capstone Project Excel.xlsx](https://github.com/user-attachments/files/17693668/Gloria.LITA.Capstone.Project.Excel.xlsx)
+
 
    - **Data Exploration**: Used pivot tables to analyze subscription patterns, focusing on metrics such as average subscription duration and identifying popular subscription types.
    - **Key Calculations**:
@@ -47,7 +48,8 @@ This project analyzes customer data from a subscription service to uncover behav
        
    - **File**: 
 
-## SQL Analysis:
+## SQL Analysis:[View Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=drive_link)
+
    - **Dataset Loading**: Loaded the customer dataset into SQL Server to perform more in-depth analysis.
    - **Key Queries**:
      - **Total Customers by Region**:
