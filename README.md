@@ -132,6 +132,7 @@ This project analyzes customer data from a subscription service to uncover behav
    - **File**: 
    - **Preview**: ![Screenshot 2024-11-12 005438](https://github.com/user-attachments/assets/05900edd-85a9-49d2-bb50-fcaba51c1537)
 
+![Screenshot 2024-11-12 232923](https://github.com/user-attachments/assets/2a5e8faa-9a62-4172-81f6-b7e507709f4e)
 
 ---
 
