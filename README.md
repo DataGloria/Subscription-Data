@@ -39,14 +39,12 @@ This project analyzes customer data from a subscription service to uncover behav
 
 ## Excel Analysis:[Gloria LITA Capstone Project Excel.xlsx](https://github.com/user-attachments/files/17693668/Gloria.LITA.Capstone.Project.Excel.xlsx)
 
-
+   - **Data Cleaning**:
    - **Data Exploration**: Used pivot tables to analyze subscription patterns, focusing on metrics such as average subscription duration and identifying popular subscription types.
    - **Key Calculations**:
      - Calculated the average subscription duration across customer segments.
      - Identified the most popular subscription types.
-     - Generated additional reports highlighting customer demographics and usage trends..
-       
-   - **File**: 
+     
 
 ## SQL Analysis:[View Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=drive_link)
 
@@ -114,7 +112,7 @@ This project analyzes customer data from a subscription service to uncover behav
        FROM [dbo].[Customer Data]
            
        ```
-   reminder!!!! (put imaage here, Gloria)!!!!!!
+ 
 
 ## Power BI Dashboard:
    - **Overview**: 
@@ -129,7 +127,7 @@ This project analyzes customer data from a subscription service to uncover behav
      - **Cancellations**: Highlights cancellation rates, with a focus on top regions and subscription durations.
      - **Subscription Trends**: Shows popular subscription types and total revenue generated.
      - **Interactive Slicers**: Allows filtering by customer segments, regions, and subscription types.
-   - **File**: 
+       
    - **Preview**: ![Screenshot 2024-11-12 005438](https://github.com/user-attachments/assets/05900edd-85a9-49d2-bb50-fcaba51c1537)
 
 ![Screenshot 2024-11-12 232923](https://github.com/user-attachments/assets/2a5e8faa-9a62-4172-81f6-b7e507709f4e)
