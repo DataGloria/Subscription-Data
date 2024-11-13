@@ -74,7 +74,7 @@ This involves making use of the data provided to anwer the following questions
 
 ## Excel Analysis:[Gloria LITA Capstone Project Excel.xlsx](https://github.com/user-attachments/files/17693668/Gloria.LITA.Capstone.Project.Excel.xlsx)
 
-   - **Data Cleaning**:
+   - **Data Cleaning**: In cleaning this data, i checked for duplicates and removed all duplicated data. This was followed by a check for blanks
    - **Data Exploration**: Used pivot tables to analyze subscription patterns, focusing on metrics such as average subscription duration and identifying popular subscription types.
    - **Key Calculations**:
      - Calculated the average subscription duration across customer segments.
@@ -84,7 +84,9 @@ This involves making use of the data provided to anwer the following questions
 ## SQL Analysis:[View Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=drive_link)
 
    - **Dataset Loading**: Loaded the customer dataset into SQL Server to perform more in-depth analysis.
-   - **Key Queries**:
+   - **Data-type Change**: Some of the datat type had to be changed for better inisghts..
+   - **Key Queries**: These are the queris to answer the SQL questins in he data exploratory section
+     
      - **Total Customers by Region**:
        ```sql
        SELECT Region,
@@ -153,15 +155,18 @@ This involves making use of the data provided to anwer the following questions
    - **Overview**: 
    - loaded the data into powerbi
    - checked data type to ensure data type is accurate
+   - Chnaged data type for data with wrong data type
    - performed data audit to ensure data is clear of error and data quality is topnotch
    - Developed an interactive Power BI dashboard that visualizes key metrics.
+   - Created measures and calculated colums to provide better insights
 
      
    - **Dashboard Components**:
-     - **Customer Segments**: Displays key customer segments based on subscription type and region.
+     - **Customer Segments**: Displays key customer segments based on subscription type and region, customer count and active customer count
      - **Cancellations**: Highlights cancellation rates, with a focus on top regions and subscription durations.
-     - **Subscription Trends**: Shows popular subscription types and total revenue generated.
-     - **Interactive Slicers**: Allows filtering by customer segments, regions, and subscription types.
+     - **Subscription Trends**: Shows subscription types and total revenue generated.
+     - **region Trends**: Shows the number of regions, revenue generated per region, percentage contributed per reion and customer per region.
+     - **Interactive Slicers**: Allows filtering by subscription types and year. 
        
    - **Preview**: ![Screenshot 2024-11-12 005438](https://github.com/user-attachments/assets/05900edd-85a9-49d2-bb50-fcaba51c1537)
 
