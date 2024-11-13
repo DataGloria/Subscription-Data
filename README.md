@@ -4,7 +4,11 @@ TABLE OF CONTENT
 
 [Project Overview](#project-overview)
 
+[Data Sources](#data-sources)
+
 [Project Summary](#project-summary)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Project Structure](#project-structure)
 
@@ -27,11 +31,44 @@ This project analyzes customer data from a subscription service to uncover behav
 
 ---
 
+## Data Sources
+The data used for this project was provided by LITA Tutors and consisted of an excel document. 
+
+---
+
 ## Project Summary
 
-- **Objective**: To understand customer behavior in a subscription service, identify segments, and analyze subscription patterns, including cancellation and renewal trends.
+- **Objective**: To understand customer behavior in a subscription service, identify segments, and analyze subscription patterns, including cancellation rates and renewal trends.
 - **Tools Used**: Microsoft Excel, SQL Server, Power BI
 - **Outcome**: An interactive Power BI dashboard with slicers for dynamic analysis of customer segments and subscription trends.
+
+---
+
+## Exploratory Data Analysis
+This involves making use of the data provided to anwer the following questions
+
+1. USING EXCEL
+   
+o Perform an initial exploration of the sales data. Use pivot tables to summarize
+total sales by product, region, and month.
+o Use Excel formulas to calculate metrics such as average sales per product and
+total revenue by region.
+o Create any other interesting reportretrieve the total sales for each product category.
+
+2. USING SQL
+   
+o find the number of sales transactions in each region.
+o find the highest-selling product by total sales value.
+o calculate total revenue per product.
+o calculate monthly sales totals for the current year.
+o find the top 5 customers by total purchase amount.
+o calculate the percentage of total sales contributed by each region.
+o identify products with no sales in the last quarter.
+
+3. USING POWER BI 
+o Create an interactive dashboard.
+
+### ALL FILES HAVE BEEN ATTACHED
 
 ---
 
