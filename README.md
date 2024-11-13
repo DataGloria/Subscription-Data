@@ -49,24 +49,22 @@ This involves making use of the data provided to anwer the following questions
 
 1. USING EXCEL
    
-o Perform an initial exploration of the sales data. Use pivot tables to summarize
-total sales by product, region, and month.
-o Use Excel formulas to calculate metrics such as average sales per product and
-total revenue by region.
-o Create any other interesting reportretrieve the total sales for each product category.
+- Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
+- Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+- Create any other interesting reportretrieve the total sales for each product category.
 
 2. USING SQL
    
-o find the number of sales transactions in each region.
-o find the highest-selling product by total sales value.
-o calculate total revenue per product.
-o calculate monthly sales totals for the current year.
-o find the top 5 customers by total purchase amount.
-o calculate the percentage of total sales contributed by each region.
-o identify products with no sales in the last quarter.
+- find the number of sales transactions in each region.
+- find the highest-selling product by total sales value.
+- calculate total revenue per product.
+- calculate monthly sales totals for the current year.
+- find the top 5 customers by total purchase amount.
+- calculate the percentage of total sales contributed by each region.
+- identify products with no sales in the last quarter.
 
 3. USING POWER BI 
-o Create an interactive dashboard.
+- Create an interactive dashboard.
 
 ### ALL FILES HAVE BEEN ATTACHED
 
